@@ -1,0 +1,2209 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-67V2J9Se2CifJlftk9/cExHGvxd7N9b9EdGnQEpszu99Ogeecilu9jIDxoCkx3zNLfB9ArraXW0J03qyVmN0Uw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e7318add1f7e055d040edb0f75aaa0ba.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-MRlTIqIyb8caK5+o8llXVntXovciHyAM4qE3kWU2S7SIjAPDxYp4mE0jQp4kP5UYegy+lG9y1I6VlsdzEjb5Qw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-294181adec18ed639e160b96b45d17ac.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-bgBR1xQkj/CIp26ItOrlen3F/3JrJK1d6Qnc/eRWK1UiU8RuePzp635N4Yqkw166lxXr/iDpSxkBibhPepwWVQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-393058aa01427825741da79f3d6cc330.css" />
+    
+    
+    
+    
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Releases · hakimel/reveal.js · GitHub</title>
+    <meta name="description" content="The HTML Presentation Framework. Contribute to hakimel/reveal.js development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/629429?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="hakimel/reveal.js" /><meta name="twitter:description" content="The HTML Presentation Framework. Contribute to hakimel/reveal.js development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/629429?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="hakimel/reveal.js" /><meta property="og:url" content="https://github.com/hakimel/reveal.js" /><meta property="og:description" content="The HTML Presentation Framework. Contribute to hakimel/reveal.js development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="EA9A:5933:191A34:27C42B:5D32B604" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_releases" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EA9A:5933:191A34:27C42B:5D32B604" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-2" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/releases/index" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="NTZmODJmOTJmOWRjYjdhZDEyNDJhZmRjYTAwYmJlMTAwMzY5ODE0ZjMzYTMxOTQ0YzU5MGVhOTg0ODZjMDZlZXx7InJlbW90ZV9hZGRyZXNzIjoiMjAyLjM2LjE3OC41IiwicmVxdWVzdF9pZCI6IkVBOUE6NTkzMzoxOTFBMzQ6MjdDNDJCOjVEMzJCNjA0IiwidGltZXN0YW1wIjoxNTYzNjA0NDg1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,MARKETPLACE_PENDING_INSTALLATIONS">
+
+  <meta name="html-safe-nonce" content="a48cc539bb8f138171947ebaa0836036cae368b3">
+
+  <meta http-equiv="x-pjax-version" content="48be5665dd83193d54e22d5456337b36">
+  
+
+      <link rel="alternate" type="application/atom+xml" title="reveal.js Release Notes" href="https://github.com/hakimel/reveal.js/releases.atom" />
+  <link rel="alternate" type="application/atom+xml" title="reveal.js Tags" href="https://github.com/hakimel/reveal.js/tags.atom" />
+  <link href="https://github.com/hakimel/reveal.js/commits/master.atom" rel="alternate" title="Recent Commits to reveal.js:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/hakimel/reveal.js git https://github.com/hakimel/reveal.js.git">
+
+  <meta name="octolytics-dimension-user_id" content="629429" /><meta name="octolytics-dimension-user_login" content="hakimel" /><meta name="octolytics-dimension-repository_id" content="1861458" /><meta name="octolytics-dimension-repository_nwo" content="hakimel/reveal.js" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="1861458" /><meta name="octolytics-dimension-repository_network_root_nwo" content="hakimel/reveal.js" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-responsive">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+        <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
+  <div class="container-lg d-lg-flex flex-items-center p-responsive">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+        </a>
+
+          <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
+            
+              <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+    <a class="Header-link" href="/hakimel">hakimel</a>
+    /
+    <a class="Header-link" href="/hakimel/reveal.js">reveal.js</a>
+
+
+          </div>
+
+        <div class="d-flex flex-items-center">
+            <a href="/join?source=header-repo"
+              class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="57ff134bc2f3d90f108db025b8ce23b8ebaeef515c85207aba6a29ffa48c7bd1"
+              data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
+              Sign&nbsp;up
+            </a>
+
+          <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+            <svg height="24" class="octicon octicon-three-bars text-white" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"/></svg>
+          </button>
+        </div>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-flex d-lg-none flex-justify-end border-bottom bg-gray-light p-3">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
+          <ul class="d-lg-flex list-style-none">
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a>
+                          <li class="edge-item-fix"><a href="/features/package-registry" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Package Registry">Package registry</a>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#social-coding" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Social coding">Social coding</a></li>
+                      <li class="edge-item-fix"><a href="/features#documentation" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Documentation">Documentation</a></li>
+                      <li class="edge-item-fix"><a href="/features#code-hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Code hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
+          <div class="d-lg-flex mb-3 mb-lg-0">
+            <div class="header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="1861458" data-scoped-search-url="/hakimel/reveal.js/search" data-unscoped-search-url="/search" action="/hakimel/reveal.js/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=FQ6itGYaUw0rdcYNaKVp2b44xctRMDveiv2byg9UsFmWoj+p4fSY+GdUTSuJ6aCCTGuprAVjYPIAvs0+mmrp2Q=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a href="/login?return_to=%2Fhakimel%2Freveal.js%2Freleases"
+          class="HeaderMenu-link no-underline mr-3"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02ed751551a6df482d1822e9a937c3487332b47feffdc89dc139492dcc429bda"
+          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+          Sign&nbsp;in
+        </a>
+          <a href="/join?source=header-repo"
+            class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02ed751551a6df482d1822e9a937c3487332b47feffdc89dc139492dcc429bda"
+            data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
+            Sign&nbsp;up
+          </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+    <div id="js-flash-container">
+
+</div>
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main  >
+      
+
+
+  
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav pt-0 pt-lg-4 ">
+    <div class="repohead-details-container clearfix container-lg p-responsive d-none d-lg-block">
+
+      <ul class="pagehead-actions">
+
+
+
+
+  <li>
+    
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5367b403f66448460603f62c4996896a4bef0f0ccc6a89621235ffc838974a0b" href="/login?return_to=%2Fhakimel%2Freveal.js">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+</a>    <a class="social-count" href="/hakimel/reveal.js/watchers"
+       aria-label="1550 users are watching this repository">
+      1,550
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:1861458,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6236e03f1991b669a564da4c178dbfcaa13c04c2a3aaf23d9a30c23637faaf77" href="/login?return_to=%2Fhakimel%2Freveal.js">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+</a>
+    <a class="social-count js-social-count" href="/hakimel/reveal.js/stargazers"
+      aria-label="47376 users starred this repository">
+      47,376
+    </a>
+
+  </li>
+
+  <li>
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:1861458,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="38f2d8bad6ca246560a5e857e2dece4eaef02963520a25d795afc6e690433867" href="/login?return_to=%2Fhakimel%2Freveal.js">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+</a>
+    <a href="/hakimel/reveal.js/network/members" class="social-count"
+       aria-label="13742 users forked this repository">
+      13,742
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/hakimel/reveal.js">reveal.js</a></strong>
+  
+
+</h1>
+
+    </div>
+    
+<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax container-lg p-responsive d-none d-lg-block"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /hakimel/reveal.js" href="/hakimel/reveal.js">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /hakimel/reveal.js/issues" href="/hakimel/reveal.js/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">390</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /hakimel/reveal.js/pulls" href="/hakimel/reveal.js/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">86</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /hakimel/reveal.js/projects" href="/hakimel/reveal.js/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /hakimel/reveal.js/wiki" href="/hakimel/reveal.js/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /hakimel/reveal.js/security/advisories" href="/hakimel/reveal.js/security/advisories">
+      <svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg>
+      Security
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /hakimel/reveal.js/pulse" href="/hakimel/reveal.js/pulse">
+      <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+      Insights
+</a>
+
+</nav>
+
+  <div class="reponav-wrapper reponav-small d-lg-none">
+  <nav class="reponav js-reponav text-center no-wrap"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /hakimel/reveal.js" href="/hakimel/reveal.js">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /hakimel/reveal.js/issues" href="/hakimel/reveal.js/issues">
+          <span itemprop="name">Issues</span>
+          <span class="Counter">390</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /hakimel/reveal.js/pulls" href="/hakimel/reveal.js/pulls">
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">86</span>
+        <meta itemprop="position" content="3">
+</a>    </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /hakimel/reveal.js/projects" href="/hakimel/reveal.js/projects">
+          <span itemprop="name">Projects</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="4">
+</a>      </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /hakimel/reveal.js/wiki" href="/hakimel/reveal.js/wiki">
+          <span itemprop="name">Wiki</span>
+          <meta itemprop="position" content="5">
+</a>      </span>
+
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy /hakimel/reveal.js/security/advisories" href="/hakimel/reveal.js/security/advisories">
+        <span itemprop="name">Security</span>
+        <meta itemprop="position" content="6">
+</a>
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /hakimel/reveal.js/pulse" href="/hakimel/reveal.js/pulse">
+        Pulse
+</a>
+
+  </nav>
+</div>
+
+
+  </div>
+<div class="container-lg new-discussion-timeline experiment-repo-nav  p-responsive">
+  <div class="repository-content ">
+
+    
+    
+        <div class="signup-prompt-bg rounded-1 hide-sm">
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+        <div class="position-relative">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="MsulGJ5fFlwwVBuLqTatHIrUqFvLORJf+l2+dQrmvT6WfAzYzoWbEKzhvOfJFCyWLz2ZtMIp5RaymyrAm0gL1g==" />
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+              Dismiss
+            </button>
+</form>          <h3 class="pt-2">Be notified of new releases</h3>
+          <p class="col-8 mx-auto">Create your free GitHub account today to subscribe to this repository for new releases and build software alongside 36 million developers.</p>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;releases signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;EA9A:5933:191A34:27C42B:5D32B604&quot;,&quot;originating_url&quot;:&quot;https://github.com/hakimel/reveal.js/releases&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f8fec19b824bbcbe648c27162675a4d6944f3fd0e76859d05e0c504ed6bfa2f2" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-releases">Sign up</a>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="subnav">
+    <div class="subnav-links float-left" role="navigation">
+  <a class="js-selected-navigation-item selected subnav-item" aria-current="page" data-selected-links="repo_releases /hakimel/reveal.js/releases" href="/hakimel/reveal.js/releases">Releases</a>
+  <a class="js-selected-navigation-item subnav-item" data-selected-links="repo_tags /hakimel/reveal.js/tags" href="/hakimel/reveal.js/tags">Tags</a>
+
+</div>
+
+
+  </div>
+
+  <div class="position-relative border-top clearfix">
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-latest">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+        <span class="flex-shrink-0 Label Label--outline mb-md-2 mr-2 mr-md-0 Label--outline-green">
+            <a class="border-0 Label--outline-green" href="/hakimel/reveal.js/releases/latest">Latest release</a>
+        </span>
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.8.0" class="muted-link css-truncate" title="3.8.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.8.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/3da09f1fef1fa3c140d2daa5bdee2a32683dd964" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>3da09f1</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.8.0">3.8.0</a>
+        </div>
+
+          <span class="d-md-none flex-shrink-0 ml-2 mt-2 mt-md-0 Label Label--outline Label--outline-green">
+              <a class="border-0 Label--outline-green" href="/hakimel/reveal.js/releases/latest">Latest release</a>
+          </span>
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.8.0" class="muted-link css-truncate" title="3.8.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.8.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/3da09f1fef1fa3c140d2daa5bdee2a32683dd964" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>3da09f1</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2019-04-01T13:17:36Z">Apr 1, 2019</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.8.0...master">
+    6 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>The cursor is now automatically hidden after five seconds of inactivity. The timeout can be adjusted with <code>hideCursorTime: &lt;milliseconds&gt;</code>, or you can disable the feature entirely with <code>hideInactiveCursor: false</code>.</li>
+<li>Presentations can be zoomed on touch devices using the standard pinch-to-zoom gestures.</li>
+<li>New <code>navigationMode: &lt;default/linear/grid&gt;</code> config option. Set to "grid" to navigate across adjacent vertical stacks. <a href="https://github.com/hakimel/reveal.js/blob/master/README.md#navigation-mode">Learn more in the docs</a>. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="401510682" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2307" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2307/hovercard" href="https://github.com/hakimel/reveal.js/pull/2307">#2307</a>)</li>
+<li>New <code>hash: &lt;boolean&gt;</code> config option. When set to true, reveal.js will reflect the current slide in the address bar <strong>without</strong> pushing each slide change to the browser history. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="386621652" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2286" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2286/hovercard" href="https://github.com/hakimel/reveal.js/pull/2286">#2286</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1810591" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/asottile">@asottile</a>)</li>
+<li>New <code>preloadIframes</code> config option for flagging if iframes should be preloaded or not. Can be set per-frame using the <code>data-preload</code> attribute. <a href="https://github.com/hakimel/reveal.js/blob/master/README.md#lazy-loading-iframes">More info</a>. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="423039608" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2354" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2354/hovercard" href="https://github.com/hakimel/reveal.js/pull/2354">#2354</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2607086" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/maxrothman">@maxrothman</a>)</li>
+<li>A <code>resize</code> event is now dispatched anytime the presentation scale changes. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="399321344" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2300" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2300/hovercard" href="https://github.com/hakimel/reveal.js/pull/2300">#2300</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6930288" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mw75">@mw75</a>)</li>
+<li>The "Resume" button in the pause overlay is hidden if <code>controls</code> are set to false. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="350906703" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2215" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2215/hovercard" href="https://github.com/hakimel/reveal.js/pull/2215">#2215</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=708095" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/anderslemke">@anderslemke</a>)</li>
+<li>New keyboard shortcut: CMD/CTRL + left or right arrow to go to first or last slide.</li>
+<li>Adds <code>Reveal.getRevealElement()</code> for retrieving the presentation's root element (<code>&lt;div class="reveal"&gt;</code>).</li>
+<li>Removes Head JS as it is no longer required to load dependencies.</li>
+<li>Removes classList polyfill since browser support caught up.</li>
+<li>Removes the reset styles from reveal.css to make styles easier to override. Reset styles are now included as a separate reset.css file. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/hakimel/reveal.js/commit/6abc6e00581e66690416978de118145e854c3c1e/hovercard" href="https://github.com/hakimel/reveal.js/commit/6abc6e00581e66690416978de118145e854c3c1e"><tt>6abc6e0</tt></a> <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="246554475" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1952" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1952/hovercard" href="https://github.com/hakimel/reveal.js/issues/1952">#1952</a> &amp; <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="366423903" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2248" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2248/hovercard" href="https://github.com/hakimel/reveal.js/pull/2248">#2248</a>)</li>
+<li>The zoom transition now zooms between all slides, previously it zoomed between horizontal slides and used a slide transition between vertical.</li>
+<li>Upgrade to Socket.IO 2.2.0.</li>
+</ul>
+<p><strong>Plugin Changes:</strong></p>
+<ul>
+<li>Adds a new API for registering plugins <code>Reveal.registerPlugin( 'myPlugin', MyPluginInstance )</code>. If a registered plugin returns a promise when initialized, reveal.js will wait for that promise to be fulfilled before firing the ready event. <a href="https://github.com/hakimel/reveal.js/blob/master/README.md#plugins">Learn more in the docs.</a></li>
+<li>Code highlighting: Support for <a href="https://github.com/hakimel/reveal.js/blob/master/README.md#line-numbers--highlights">line numbers</a>! Just add <code>data-line-numbers</code> to your code blocks.</li>
+<li>Code highlighting: Highlight specific lines by providing a comma separated list of line numbers to <code>data-line-numbers</code>. Line ranges, like 5-15, are supported too.</li>
+<li>Speaker view: No longer requires a web server, it now works when opened directly from the filesystem. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="298630952" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2104" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2104/hovercard" href="https://github.com/hakimel/reveal.js/pull/2104">#2104</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2478571" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jurca">@jurca</a>)</li>
+<li>Markdown: External .md files are now loaded asynchronously.</li>
+<li>Markdown: Upgrade to marked 0.6.0. (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=109060" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sestegra">@sestegra</a>)</li>
+<li>MathJax config options can now be set via the reveal.js <code>math</code> config option. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="295501963" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2090" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2090/hovercard" href="https://github.com/hakimel/reveal.js/pull/2090">#2090</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=813865" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bnjmnt4n">@bnjmnt4n</a>)</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fixes npm security warnings by updating all dependencies.</li>
+<li>Fixes an issue that prevented the same internal link from being clicked twice. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="421392165" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2350" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2350/hovercard" href="https://github.com/hakimel/reveal.js/pull/2350">#2350</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=359605" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rparree">@rparree</a>)</li>
+<li>Fixes an issue with data-transition not working on vertical slides. (<a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/hakimel/reveal.js/commit/b6ce0a9724f123396b59e9b7b90ab2d44dda2534/hovercard" href="https://github.com/hakimel/reveal.js/commit/b6ce0a9724f123396b59e9b7b90ab2d44dda2534"><tt>b6ce0a9</tt></a> <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="245154723" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1947" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1947/hovercard" href="https://github.com/hakimel/reveal.js/issues/1947">#1947</a>)</li>
+<li>Fixes an issue that needless caused the slide method—and all of its corresponding performance heavy DOM operations—to be invoked twice for each slide change. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="373684007" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2263" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2263/hovercard" href="https://github.com/hakimel/reveal.js/pull/2263">#2263</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=31275467" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mbotsch">@mbotsch</a>)</li>
+<li>Fixes a layout bug with overlaid speaker notes when reveal.js is smaller than the browser window.</li>
+<li>Fixes an error that caused <code>Reveal.getProgress()</code> to return a value higher than 1 when there were fragments on the last slide.</li>
+<li>The speaker view no longer stops working when opened multiple times. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="367212716" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2251" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2251/hovercard" href="https://github.com/hakimel/reveal.js/pull/2251">#2251</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=7581493" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/oyron">@oyron</a>)</li>
+<li>Prevents presentations from overflowing vertically in some mobile browsers.</li>
+<li>Elements using <code>.stretch</code> now show up in the overview mode. (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=63734" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sanand0">@sanand0</a>)</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.7.0...3.8.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    open
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.8.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.8.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.7.0" class="muted-link css-truncate" title="3.7.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.7.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/2c5396b7d347f8ee1344016f15b93d4f78401569" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>2c5396b</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.7.0">3.7.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.7.0" class="muted-link css-truncate" title="3.7.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.7.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/2c5396b7d347f8ee1344016f15b93d4f78401569" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>2c5396b</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2018-08-01T09:38:42Z">Aug 1, 2018</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.7.0...master">
+    144 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li><a href="https://github.com/hakimel/reveal.js#custom-key-bindings">Key Binding API</a> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="225317480" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1885" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1885/hovercard" href="https://github.com/hakimel/reveal.js/pull/1885">#1885</a> by @ denehyg)</li>
+<li>Adds <code>pdfSeparateFragments</code> option for exporting fragments on separate PDF pages (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=509209" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/koehlma">@koehlma</a>)</li>
+<li>Adds <code>fragmentInURL</code> option for including fragments in the URL (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=36478" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dougalsutherland">@dougalsutherland</a>)</li>
+<li>Adds <code>hashOneBasedIndex</code> option for switching slide URLs from 0 to 1-based index (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2279724" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sean-parent">@sean-parent</a>)</li>
+<li>Adds <code>data-background-opacity</code> attribute for fading out background media</li>
+<li>Adds a "Resume presentation" button to the pause overlay</li>
+<li>Adds two new fragment styles
+<ul>
+<li><code>semi-fade-out</code>: starts fully visible and fades out to 50% opacity</li>
+<li><code>fade-in-then-semi-out</code>: fades in like a normal fragment and remains visible but faded out when you move to the next fragment</li>
+</ul>
+</li>
+<li>New API method <code>Reveal.syncSlide</code>: same use as <code>Reveal.sync</code> but more efficient when you've only made changes to one specific slide</li>
+<li>New API method <code>Reveal.syncFragments</code>: same use as <code>Reveal.sync</code> but more efficient when you've only made changes to fragments on one specific slide</li>
+<li>Removes arbitrary restrictions on slide IDs, all IDs are now valid</li>
+<li>The slide number is now an anchor pointing to the current hash, making it possible to copy the current slide URL even when <code>history</code> is disabled (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="307503993" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/2133" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/2133/hovercard" href="https://github.com/hakimel/reveal.js/pull/2133">#2133</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2279724" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sean-parent">@sean-parent</a>)</li>
+<li>Whitespace is now allowed in background image names (<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2831317" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RobertBaron">@RobertBaron</a>)</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>The left/right navigation arrows no longer appear when there are no horizontal slides</li>
+<li>Navigating to the same slide twice in a row no longer drops its "present" class</li>
+<li>The loop option now works correctly in presentations with only vertical slides</li>
+<li>More graceful error handling of duplicate slide IDs</li>
+<li>Interactive iframe backgrounds now work in vertical slides</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.6.0...3.7.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.7.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.7.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.6.0" class="muted-link css-truncate" title="3.6.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.6.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/65bdccd5807b6dfecad6eb3ea38872436d291e81" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>65bdccd</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.6.0">3.6.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.6.0" class="muted-link css-truncate" title="3.6.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.6.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/65bdccd5807b6dfecad6eb3ea38872436d291e81" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>65bdccd</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2017-11-23T10:41:29Z">Nov 23, 2017</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.6.0...master">
+    246 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>New project domain: <a href="http://revealjs.com" rel="nofollow">revealjs.com</a>.</li>
+<li>New presentation control arrows:
+<ul>
+<li>Redesigned for improved aesthetics and clarity.</li>
+<li>Arrows bounce to attract attention until the viewer first navigates. The downwards arrow bounces the first time you arrive at a vertical stack too, making vertical slides harder to miss. This can be turned off by setting the <code>controlsTutorial</code> config option to false.</li>
+<li>Arrows automatically change color to contrast the slide background. <a href="https://revealjs.com/#/10" rel="nofollow">Step left/right here to test.</a></li>
+<li>Initialize reveal.js with <code>controlsLayout: "edges"</code> to have the controls appear along the edges of the screen instead of the bottom right corner. <a href="http://revealjs.com/?controlsLayout=edges" rel="nofollow">Try it out</a>.<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/629429/33168688-15280bac-d042-11e7-8d51-9d7bf7d44ccd.gif"><img src="https://user-images.githubusercontent.com/629429/33168688-15280bac-d042-11e7-8d51-9d7bf7d44ccd.gif" alt="revealjs-controls" style="max-width:100%;"></a></li>
+</ul>
+</li>
+<li>New mobile-friendly layout for presentations shared with visible speaker notes.</li>
+<li>The <code>showNotes</code> config option no longer shows the notes UI if there are no notes.</li>
+<li>Improved search plugin: added CTRL+SHIFT+F shortcut, now searches inside of <code>&lt;span&gt;</code>. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="230237292" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1909" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1909/hovercard" href="https://github.com/hakimel/reveal.js/pull/1909">#1909</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1733538" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/linux-man">@linux-man</a>)</li>
+<li>Lazy-loaded videos are now unloaded when they move out of view.</li>
+<li>Set the <code>autoSlide</code> option to false to prevent ALL auto-sliding (including <code>data-autoslide</code> attributes).</li>
+<li>New API method <code>Reveal.isSpeakerNotes()</code> to  check if the current instance of reveal.js is running inside of the speaker view.</li>
+<li>New API methods <code>Reveal.loadSlide()</code>/<code>Reveal.unloadSlide()</code> for manually triggering the content on a slide to load or unload.</li>
+<li>Always show video/audio controls on mobile devices.</li>
+<li>Themes now use default quotation marks for <code>&lt;q&gt;</code>.</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fixed an issue that prevented <code>Reveal.configure()</code> from being called directly before or after <code>Reveal.initialize()</code>.</li>
+<li>Don't apply text-transform uppercase inside of code tags. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="255635087" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1978" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1978/hovercard" href="https://github.com/hakimel/reveal.js/pull/1978">#1978</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1839202" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sfairchild">@sfairchild</a>)</li>
+<li>Mobile Safari browser chrome no longer covers presentation content in landscape mode.</li>
+<li>Fixed a feature test exception that prevented speaker notes from working in Safari.</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.5.0...3.6.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.6.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.6.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.5.0" class="muted-link css-truncate" title="3.5.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.5.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/360bc940062711db9b8020ce4e848f6c37014481" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>360bc94</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.5.0">3.5.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.5.0" class="muted-link css-truncate" title="3.5.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.5.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/360bc940062711db9b8020ce4e848f6c37014481" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>360bc94</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2017-05-05T12:22:40Z">May 5, 2017</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.5.0...master">
+    334 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>Add <code>display</code> config option to control the display mode slide section elements. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="99771832" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1324" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1324/hovercard" href="https://github.com/hakimel/reveal.js/issues/1324">#1324</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=79351" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mojavelinux">@mojavelinux</a>)</li>
+<li>Add <code>Reveal.toggleHelp()</code>for toggling the help overlay. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="205440482" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1816" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1816/hovercard" href="https://github.com/hakimel/reveal.js/pull/1816">#1816</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=374464" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Frazer">@Frazer</a>)</li>
+<li>Slide fragments can now hold their own speaker notes. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="163693329" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1636" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1636/hovercard" href="https://github.com/hakimel/reveal.js/pull/1636">#1636</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1814841" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/traff">@traff</a>)</li>
+<li>The speaker view can now provide pacing advice. This makes it easy to detect if you're running out of time, or going too quickly. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="148872926" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1564" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1564/hovercard" href="https://github.com/hakimel/reveal.js/pull/1564">#1564</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=100738" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aspiers">@aspiers</a>, <a href="https://github.com/hakimel/reveal.js#speaker-notes-clock-and-timers">more info</a>)</li>
+<li>Switch to a <code>&lt;textarea data-template&gt;&lt;/textarea&gt;</code> wrapper for Markdown to avoid HTML parsing issues. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="197313878" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1780" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1780/hovercard" href="https://github.com/hakimel/reveal.js/pull/1780">#1780</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1654761" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ccqgithub">@ccqgithub</a>)</li>
+<li>Background videos now autoplay in iOS. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="215161758" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1851" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1851/hovercard" href="https://github.com/hakimel/reveal.js/pull/1851">#1851</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=14275198" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/astone123">@astone123</a>)</li>
+<li>Background iframes are now interactive when there is no content in the slide or <code>data-background-interactive</code> is present on the slide element.</li>
+<li>Shift <code>dependencies</code> to <code>devDependencies</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="194265625" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1764" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1764/hovercard" href="https://github.com/hakimel/reveal.js/pull/1764">#1764</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24849295" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/demoneaux">@demoneaux</a>)</li>
+<li>MathJax is now loaded from cdnjs since cdn.mathjax.org was shut down. (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="219556616" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1866" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1866/hovercard" href="https://github.com/hakimel/reveal.js/pull/1866">#1866</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19513" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/christianp">@christianp</a>)</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fix multiple issues with autoplaying <code>&lt;video&gt;</code> and <code>&lt;audio&gt;</code>, particularly on slow connections.</li>
+<li>Fix overview rendering issues in Firefox.</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.4.1...3.5.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.5.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.5.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.4.1" class="muted-link css-truncate" title="3.4.1">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.4.1</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/9f8e4d5742df486cce577f6e0dbae666aabc4eb1" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>9f8e4d5</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.4.1">3.4.1</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.4.1" class="muted-link css-truncate" title="3.4.1">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.4.1</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/9f8e4d5742df486cce577f6e0dbae666aabc4eb1" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>9f8e4d5</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2017-01-25T09:54:42Z">Jan 25, 2017</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.4.1...master">
+    436 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <ul>
+<li>Fix issue where all PDF exports included one extra blank page after each slide.</li>
+</ul>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.4.1.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.4.1.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.4.0" class="muted-link css-truncate" title="3.4.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.4.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/568c7516f7ff7da7824db033946619d2c7ad761f" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>568c751</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.4.0">3.4.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.4.0" class="muted-link css-truncate" title="3.4.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.4.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/568c7516f7ff7da7824db033946619d2c7ad761f" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>568c751</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2017-01-10T13:56:47Z">Jan 10, 2017</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.4.0...master">
+    440 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>Add a layout selector to the speaker view with four different options (<a href="https://cloud.githubusercontent.com/assets/629429/21808439/b941eb52-d743-11e6-9936-44ef80c60580.gif" rel="nofollow">see example</a>)</li>
+<li>Add ability to pass options to Markdown parser (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="194289336" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1765" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1765/hovercard" href="https://github.com/hakimel/reveal.js/pull/1765">#1765</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24849295" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/demoneaux">@demoneaux</a>)</li>
+<li>Auto-playing content inside of a fragment now play automatically when the parent fragment is displayed</li>
+<li>Improve indentation correction for code blocks using the <code>data-trim</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="191150497" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1756" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1756/hovercard" href="https://github.com/hakimel/reveal.js/pull/1756">#1756</a> by @ jmpp)</li>
+<li>Show an error when an iframe can't be previewed (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="152309689" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1577" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1577/hovercard" href="https://github.com/hakimel/reveal.js/pull/1577">#1577</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=5563315" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Huxpro">@Huxpro</a>)</li>
+<li>Improve accuracy of zoom plugin (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="150987120" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1572" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1572/hovercard" href="https://github.com/hakimel/reveal.js/pull/1572">#1572</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=612020" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jesstelford">@jesstelford</a>)</li>
+<li>PDF exports:
+<ul>
+<li>Add <code>showNotes: 'separate-page'</code> to print speaker notes on separate pages (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="137533795" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1518" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1518/hovercard" href="https://github.com/hakimel/reveal.js/pull/1518">#1518</a>)</li>
+<li>Prevent printed pages from overflowing</li>
+<li>Dispatch a <code>pdf-ready</code> event when the presentation is initialized, laid out and ready to print</li>
+<li>Add <code>pdfMaxPagesPerSlide</code> config value for controlling how many pages a slide can split into when printing to PDF <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/hakimel/reveal.js/commit/55581035228aba9a0d061a6969797327c626b0bf/hovercard" href="https://github.com/hakimel/reveal.js/commit/55581035228aba9a0d061a6969797327c626b0bf"><tt>5558103</tt></a></li>
+</ul>
+</li>
+<li>Accessibility:
+<ul>
+<li>Make speaker notes keyboard accessible (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="153889505" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1586" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1586/hovercard" href="https://github.com/hakimel/reveal.js/pull/1586">#1586</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=216879" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jasonkiss">@jasonkiss</a>)</li>
+<li>Update disabled attribute on nav buttons for screen reader accessibility (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="153889505" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1586" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1586/hovercard" href="https://github.com/hakimel/reveal.js/pull/1586">#1586</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=216879" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jasonkiss">@jasonkiss</a>)</li>
+<li>Don't call out <code>aria-hidden="true"</code> and <code>display: none;</code> elements (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="171848295" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1665" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1665/hovercard" href="https://github.com/hakimel/reveal.js/pull/1665">#1665</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=10436899" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Sonaryr">@Sonaryr</a>)</li>
+</ul>
+</li>
+<li>New API method <code>Reveal.showHelp()</code> can be called to display a help overlay with keyboard shortcuts <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="158476841" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1611" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1611/hovercard" href="https://github.com/hakimel/reveal.js/pull/1611">#1611</a></li>
+<li>Increased default font sizes and max presentation scale</li>
+<li>In addition to dispatching a <a href="https://github.com/hakimel/reveal.js#ready-event">ready</a> event, reveal.js now adds a <code>ready</code> class to the <code>.reveal</code> container that CSS can hook into</li>
+<li>Updated dependencies</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fix disappearing theme background when going fullscreen in Firefox</li>
+<li>Fix occasional null pointer errors related to iframes and slide backgrounds</li>
+<li>Fix blurred content when using the none/fade/slide transitions (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="42319692" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1002" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1002/hovercard" href="https://github.com/hakimel/reveal.js/issues/1002">#1002</a>)</li>
+<li>Fix incorrect duration calculation for video/audio with <code>playbackRate</code></li>
+<li>Fix exception when initializing with no slides</li>
+<li>Fix <code>mousewheel</code>-event based navigation when using a trackpad (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="158017560" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1607" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1607/hovercard" href="https://github.com/hakimel/reveal.js/issues/1607">#1607</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3139113" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gera2ld">@gera2ld</a>)</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.3.0...3.4.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.4.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.4.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.3.0" class="muted-link css-truncate" title="3.3.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.3.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/539e774d31f91676bcc3f75e28168921cd27d819" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>539e774</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.3.0">3.3.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.3.0" class="muted-link css-truncate" title="3.3.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.3.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/539e774d31f91676bcc3f75e28168921cd27d819" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>539e774</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2016-04-19T09:53:10Z">Apr 19, 2016</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.3.0...master">
+    551 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>New default HTML files:<br>
+<strong>index.html</strong> – barebones presentation suitable to add your own content into<br>
+<strong>demo.html</strong> – example presentation where many reveal.js features are demonstrated</li>
+<li>Add <code>Reveal.shuffle()</code> for randomizing slide order, also available through config <code>Reveal.initialize({ shuffle: true })</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="133506435" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1506" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1506/hovercard" href="https://github.com/hakimel/reveal.js/pull/1506">#1506</a>)</li>
+<li>Add <code>data-background-video-muted</code> for muting background video (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="107338346" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1360" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1360/hovercard" href="https://github.com/hakimel/reveal.js/pull/1360">#1360</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=63899" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/oslego">@oslego</a>)</li>
+<li>Add <code>autoSlideMethod</code> config option for controlling how auto-slide navigates. For example, for backwards navigation you can use <code>Reveal.configure({ autoSlideMethod: Reveal.navigatePrev })</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="117682480" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1437" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1437/hovercard" href="https://github.com/hakimel/reveal.js/pull/1437">#1437</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6341204" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/der-michik">@der-michik</a>)</li>
+<li>Add four new fragment styles: fade-up, fade-down, fade-right and fade-left (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="118287988" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1445" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1445/hovercard" href="https://github.com/hakimel/reveal.js/pull/1445">#1445</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2119706" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kewitz">@kewitz</a>)</li>
+<li>Add the grunt-cli as a dependency instead of assuming global Grunt (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="125578673" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1473" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1473/hovercard" href="https://github.com/hakimel/reveal.js/pull/1473">#1473</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=583385" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/vicapow">@vicapow</a>)</li>
+<li>Add <code>Reveal.VERSION</code> (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="119763979" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1451" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1451/hovercard" href="https://github.com/hakimel/reveal.js/pull/1451">#1451</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4445745" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/SethosII">@SethosII</a>)</li>
+<li>Add table of contents to README (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="145398115" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1545" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1545/hovercard" href="https://github.com/hakimel/reveal.js/pull/1545">#1545</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=375027" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ducin">@ducin</a>)</li>
+<li>Multiplexing is compatible with <a href="https://zeit.co/now/" rel="nofollow">now</a>, deployment is as easy as <code>now plugin/multiplex</code></li>
+<li>The notes plugin no longer syncs changes to the overview mode</li>
+<li>2x auto-slide controls for HDPI displays</li>
+<li>Remove unused dependencies (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="138779028" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1521" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1521/hovercard" href="https://github.com/hakimel/reveal.js/pull/1521">#1521</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24849295" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/demoneaux">@demoneaux</a>)</li>
+<li>Update highlight.js to 9.0.0</li>
+<li>Update head.js to 1.0.3</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fix issues with how presentations were scaled up in Safari and Edge</li>
+<li>Fix issue where background videos did not play on the first slide (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="108781361" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1376" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1376/hovercard" href="https://github.com/hakimel/reveal.js/pull/1376">#1376</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3533037" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/alexbatista">@alexbatista</a>)</li>
+<li>Fix issue with formatting of Markdown notes (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="112129010" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1405" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1405/hovercard" href="https://github.com/hakimel/reveal.js/pull/1405">#1405</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2369505" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jetzhliu">@jetzhliu</a>)</li>
+<li>Fix error where parallax backgrounds did not work in a presentation with only vertical slides (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="116787797" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1434" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1434/hovercard" href="https://github.com/hakimel/reveal.js/pull/1434">#1434</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6986032" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mikemellor11">@mikemellor11</a>)</li>
+<li>Fix error when using speaker notes on a presentation with a query string in the URL (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="138780329" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1522" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1522/hovercard" href="https://github.com/hakimel/reveal.js/pull/1522">#1522</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24849295" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/demoneaux">@demoneaux</a>)</li>
+<li>Fix watching of Markdown files for livereload (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="147117436" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1553" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1553/hovercard" href="https://github.com/hakimel/reveal.js/pull/1553">#1553</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6420016" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/0xR">@0xR</a>)</li>
+<li>Fix broken overview when reveal.js is configured with percentage based width/height (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="84004987" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1247" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1247/hovercard" href="https://github.com/hakimel/reveal.js/issues/1247">#1247</a>)</li>
+<li>Remove extra border in some table configurations (by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=291575" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/flying-sheep">@flying-sheep</a>)</li>
+</ul>
+<p><a href="https://github.com/hakimel/reveal.js/compare/3.2.0...3.3.0">And more...</a></p>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.3.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.3.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.2.0" class="muted-link css-truncate" title="3.2.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.2.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/822a9c937c902807e376713760e1f07845951d5a" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>822a9c9</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.2.0">3.2.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.2.0" class="muted-link css-truncate" title="3.2.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.2.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/822a9c937c902807e376713760e1f07845951d5a" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>822a9c9</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2015-11-09T16:07:42Z">Nov 9, 2015</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.2.0...master">
+    668 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>Turn on the <code>showNotes</code> option to show your speaker notes along the bottom of the presentation. Also works with PDF exports!</li>
+<li>If <code>slideNumber</code> is turned on slide numbers will now be included in PDF exports.</li>
+<li>Changed the format and style of slide numbers.</li>
+<li>Added a bower.json manifest <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="50810749" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1067" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1067/hovercard" href="https://github.com/hakimel/reveal.js/pull/1067">#1067</a></li>
+<li>Use <code>data-prevent-swipe</code> to flag that swiping across an element shouldn't trigger slide navigation (<a href="https://github.com/hakimel/reveal.js#touch-navigation">more info</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="35979123" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/951" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/951/hovercard" href="https://github.com/hakimel/reveal.js/pull/951">#951</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3692274" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Calyhre">@Calyhre</a>)</li>
+<li>Accessibility: control arrows were changed from <code>&lt;div&gt;</code> to <code>&lt;button&gt;</code>.</li>
+<li>Updated all dependencies, see <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/hakimel/reveal.js/commit/ef1402e64567a41be8ac56ad129fdeb54a275218/hovercard" href="https://github.com/hakimel/reveal.js/commit/ef1402e64567a41be8ac56ad129fdeb54a275218"><tt>ef1402e</tt></a></li>
+<li>The Multiplexing and Speaker Notes plugins have been upgraded from socket.io 0.9.x to 1.3.7.</li>
+<li>The server side speaker notes plugin now syncs changes from within the notes window to the main presentation window.</li>
+<li>We no longer use <code>zoom</code> to scale down presentations since that was causing slight shifts in text layout. Instead we're relying on transforms which always interpolate smoothly although things don't look as crisp.</li>
+<li>The Leap Motion plugin was moved out of reveal.js core: <a href="https://github.com/gneatgeek/reveal.js-leap-motion">https://github.com/gneatgeek/reveal.js-leap-motion</a></li>
+<li>The remotes.io plugin was removed.</li>
+<li>Updated highlight.js from 8.2 to 8.9.1</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Custom-bound <code>togglePause</code> keys can now correctly be used to resume again (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="36478643" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/959" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/959/hovercard" href="https://github.com/hakimel/reveal.js/pull/959">#959</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=631832" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/davidbanham">@davidbanham</a>).</li>
+<li>Fix early access error with video backgrounds (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="96322183" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1310" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1310/hovercard" href="https://github.com/hakimel/reveal.js/pull/1310">#1310</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=489877" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/teawithfruit">@teawithfruit</a>).</li>
+<li>Fix an issue where the 'none' transition did not apply to vertical slides.</li>
+<li>Fix initial visibility of strike fragments.</li>
+<li>Fix an issue where the presentation background turned black in fullscreen mode.</li>
+<li>Fix an issue where code highlighting didn't load for Markdown-only presentations (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="75160673" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1225" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1225/hovercard" href="https://github.com/hakimel/reveal.js/issues/1225">#1225</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=211411" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gre">@gre</a>)</li>
+<li>Fix an issue where printing to paper would cause text to get cut off (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="109594549" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1381" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1381/hovercard" href="https://github.com/hakimel/reveal.js/pull/1381">#1381</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2024917" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lordsutch">@lordsutch</a>)</li>
+<li><a href="https://github.com/hakimel/reveal.js/compare/3.1.0...822a9c9">And more...</a></li>
+</ul>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.2.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.2.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.1.0" class="muted-link css-truncate" title="3.1.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.1.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/eff2265bbd6d892ae2316edff748754b4b0c4798" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>eff2265</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.1.0">3.1.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.1.0" class="muted-link css-truncate" title="3.1.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.1.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/eff2265bbd6d892ae2316edff748754b4b0c4798" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>eff2265</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2015-05-18T07:30:34Z">May 18, 2015</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.1.0...master">
+    800 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p><strong>Changes:</strong></p>
+<ul>
+<li>Slides can now have different in/out transitions (<a href="https://github.com/hakimel/reveal.js#slide-transitions">more info</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="54711658" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1106" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1106/hovercard" href="https://github.com/hakimel/reveal.js/pull/1106">#1106</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=87003" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jammon">@jammon</a>)</li>
+<li>Custom formatting support for slide numbers (<a href="https://github.com/hakimel/reveal.js/#slide-number">more info</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="36931545" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/965" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/965/hovercard" href="https://github.com/hakimel/reveal.js/issues/965">#965</a>)</li>
+<li>Lazy loaded iframe elements now only load when the containing slide becomes visible and unload again once hidden</li>
+<li>GIFs now restart when they become visible</li>
+<li>Support for slide backgrounds in the overview mode</li>
+<li>Config options for controlling parallax background movement per slide (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="23504743" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/733" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/733/hovercard" href="https://github.com/hakimel/reveal.js/pull/733">#733</a> by #lukekarrys)</li>
+<li>Simplified build script now compiles all CSS in themes folder</li>
+<li>Only preload last slide when we're configured to loop</li>
+<li>Add <code>data-background-loop</code> option (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="58173776" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1138" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1138/hovercard" href="https://github.com/hakimel/reveal.js/pull/1138">#1138</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3284107" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/denehyg">@denehyg</a>)</li>
+<li>Core CSS no longer overrides text selection color</li>
+<li>Removed <code>roll-in</code> fragment style as it was consistently crashing Chrome (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="59425041" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1150" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1150/hovercard" href="https://github.com/hakimel/reveal.js/issues/1150">#1150</a>)</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Fix Markdown table column alignment (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="48395569" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1050" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1050/hovercard" href="https://github.com/hakimel/reveal.js/issues/1050">#1050</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=3728838" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/fehmer">@fehmer</a>)</li>
+<li>Fix view distance calculation for looped presentations</li>
+<li>Fix inverse progress bar navigation in RTL mode</li>
+<li>Fix error where Markdown slide separators did not work on some systems (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="34555357" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/929" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/929/hovercard" href="https://github.com/hakimel/reveal.js/issues/929">#929</a> thanks <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=24193" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/callahad">@callahad</a>)</li>
+<li>Resolve conflict which caused auto-sliding not to work on a slide with a <code>data-autoplay</code> configured media element (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="62808788" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1170" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1170/hovercard" href="https://github.com/hakimel/reveal.js/issues/1170">#1170</a>)</li>
+<li>Input focus inside of iframe elements no longer breaks slide layout</li>
+<li><a href="https://github.com/hakimel/reveal.js/compare/20d858d...eff2265">And more...</a></li>
+</ul>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.1.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.1.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+
+
+        <div class="release-entry">
+          
+<div class="release pt-2 pt-md-0 pb-3 pb-md-0 clearfix label-">
+  <div class="d-none d-md-block flex-wrap flex-items-center col-12 col-md-3 col-lg-2 px-md-3 pb-1 pb-md-4 pt-md-4 float-left text-md-right v-align-top">
+    <div class="flex-auto flex-self-start">
+
+
+    </div>
+
+      <ul class="d-none d-md-block mt-2 list-style-none">
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/tree/3.0.0" class="muted-link css-truncate" title="3.0.0">
+            <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+            <span class="css-truncate-target" style="max-width: 125px">3.0.0</span>
+          </a>
+        </li>
+
+        <li class="d-block mb-1">
+          <a href="/hakimel/reveal.js/commit/20d858deb888fe0ec0ba92a919c8a0526ac52a2e" class="muted-link">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+            <code>20d858d</code>
+          </a>
+        </li>
+      </ul>
+      
+
+  </div><!-- /.meta -->
+
+  <div class="col-12 col-md-9 col-lg-10 px-md-3 py-md-4 release-main-section commit open float-left">
+    <div class="release-header">
+      <div class="d-flex flex-items-start">
+        <div class="f1 flex-auto min-width-0 text-normal">
+          <a href="/hakimel/reveal.js/releases/tag/3.0.0">3.0.0</a>
+        </div>
+
+
+      </div>
+        <ul class="d-flex d-md-none flex-items-center mb-1 list-style-none">
+          <li class="d-block mr-2">
+            <a href="/hakimel/reveal.js/tree/3.0.0" class="muted-link css-truncate" title="3.0.0">
+              <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 0 0 0-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"/></svg>
+              <span class="css-truncate-target" style="max-width: 125px">3.0.0</span>
+            </a>
+          </li>
+
+          <li class="d-block mr-2 flex-auto">
+            <a href="/hakimel/reveal.js/commit/20d858deb888fe0ec0ba92a919c8a0526ac52a2e" class="muted-link">
+              <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+              <code>20d858d</code>
+            </a>
+          </li>
+
+          
+
+        </ul>
+      
+<p class="f5 text-gray mt-2 mt-md-1 mb-2 mb-md-4">
+    <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel"><img class="avatar" src="https://avatars0.githubusercontent.com/u/629429?s=40&amp;v=4" width="20" height="20" alt="@hakimel" /></a>
+    <a class="text-bold text-gray" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=629429" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hakimel">hakimel</a>
+    released this
+    <relative-time datetime="2015-01-12T17:10:28Z">Jan 12, 2015</relative-time>
+    &middot;
+    <a href="/hakimel/reveal.js/compare/3.0.0...master">
+    895 commits</a>
+    to master
+    since this release
+</p>
+
+    </div>
+
+    
+
+  <div class="markdown-body">
+    <p>reveal.js 3.0 changes the default style of the framework (<a href="http://lab.hakim.se/reveal-js" rel="nofollow">demo</a>). If you want to return to the old defaults please take a look at the <a href="https://github.com/hakimel/reveal.js/wiki/Migrating-to-reveal.js-3.0.0">migration guide</a>.</p>
+<p><strong>Major updates:</strong></p>
+<ul>
+<li>New default theme "black"</li>
+<li>New theme "white", same typography as "black" but inverse colors</li>
+<li>Default transition changed from 3D rotation to 2D sliding</li>
+<li>Presentations scale up to make better use of high resolution viewports</li>
+<li>Video backgrounds (<a href="https://github.com/hakimel/reveal.js#slide-backgrounds">more info</a>)</li>
+<li>Iframe backgrounds (<a href="https://github.com/hakimel/reveal.js#slide-backgrounds">more info</a>, <a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="45362969" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1029" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1029/hovercard" href="https://github.com/hakimel/reveal.js/pull/1029">#1029</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=568769" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lutangar">@lutangar</a>)</li>
+<li>Lazy loading of image, iframe, video and audio (<a href="https://github.com/hakimel/reveal.js#lazy-loading">more info</a>)</li>
+<li>Help overlay when pressing ? (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="35270746" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/943" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/943/hovercard" href="https://github.com/hakimel/reveal.js/pull/943">#943</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1868526" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/navateja">@navateja</a>)</li>
+<li>Slide content is now announced to screen readers (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="30291242" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/854" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/854/hovercard" href="https://github.com/hakimel/reveal.js/pull/854">#854</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=2254656" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mpnkhan">@mpnkhan</a>)</li>
+<li>Rewritten PDF export layout, fixes a number of issues and adds support for vertical centering</li>
+<li>Markdown separator attributes renamed from <code>data-notes</code> and <code>data-vertical</code>to <code>data-separator-notes</code> and <code>data-separator-vertical</code>.</li>
+</ul>
+<p><strong>Other updates:</strong></p>
+<ul>
+<li>Minified files (reveal.min.js and reveal.min.css) are no longer tracked in the repo</li>
+<li>Core stylesheet is now precompiled using Sass</li>
+<li>Core stylesheet is now using autoprefixer (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="42675253" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1007" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/1007/hovercard" href="https://github.com/hakimel/reveal.js/pull/1007">#1007</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=1310437" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/burnpanck">@burnpanck</a>)</li>
+<li>Built-in postMessage API (<a href="https://github.com/hakimel/reveal.js#postmessage-api">more info</a>)</li>
+<li>The .reveal element is given a "has-light-background" or "has-dark-background" class when a per-slide background color is detected</li>
+<li>Speaker view
+<ul>
+<li>New design</li>
+<li>Now works when running a presentation from file://</li>
+<li>Disabled slide transitions to improve main presentation performance</li>
+<li>Disabled auto-sliding to prevent conflicts with main presentation</li>
+<li>Disabled 'S' shortcut from working inside of speaker view</li>
+</ul>
+</li>
+<li>New API method: getState/setState (<a href="https://github.com/hakimel/reveal.js#presentation-state">more info</a>)</li>
+<li>New API method: getProgress</li>
+<li>New API method: getTotalSlides (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="30572897" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/858" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/858/hovercard" href="https://github.com/hakimel/reveal.js/pull/858">#858</a>)</li>
+<li>Fragments are included in progress calculation</li>
+<li>highlight.js updated to 8.2, now includes all supported languages rather than a subset</li>
+<li>Removed transitions into and out of the overview mode</li>
+<li>Simplified .slides container layout, no more -50% offset on individual slide elements</li>
+<li>Renamed "linear" transition to "slide"</li>
+<li>Renamed "default" transition to "convex"</li>
+<li>Background images, videos and iframes are lazy loaded</li>
+<li>Moved content related styles out of core stylesheet into themes</li>
+<li>Removed Ruby dependency by switching to node-sass (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="38092307" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/975" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/975/hovercard" href="https://github.com/hakimel/reveal.js/pull/975">#975</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=727328" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/miira">@miira</a>)</li>
+<li>Removed <code>theme</code> config option (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="49826706" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/1061" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/1061/hovercard" href="https://github.com/hakimel/reveal.js/issues/1061">#1061</a>)</li>
+<li>Included version of League Gothic is no longer subset (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="39933403" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/989" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/989/hovercard" href="https://github.com/hakimel/reveal.js/issues/989">#989</a>)</li>
+<li>UMD support (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="31120631" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/869" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/869/hovercard" href="https://github.com/hakimel/reveal.js/pull/869">#869</a> by <a class="user-mention" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=719605" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ahdinosaur">@ahdinosaur</a>)</li>
+<li>Refreshed content in default presentation</li>
+</ul>
+<p><strong>Bug fixes:</strong></p>
+<ul>
+<li>Invisible fragments no longer catch mouse events (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="29914002" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/845" data-hovercard-type="pull_request" data-hovercard-url="/hakimel/reveal.js/pull/845/hovercard" href="https://github.com/hakimel/reveal.js/pull/845">#845</a>)</li>
+<li>Prevent named links with non-latin characters from skipping to presentation end (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="29606312" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/836" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/836/hovercard" href="https://github.com/hakimel/reveal.js/issues/836">#836</a>)</li>
+<li><code>data-autoplay</code> attribute now works on the first slide</li>
+<li>Auto-sliding now works for fragments on last slide (<a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="38030637" data-permission-text="Issue title is private" data-url="https://github.com/hakimel/reveal.js/issues/974" data-hovercard-type="issue" data-hovercard-url="/hakimel/reveal.js/issues/974/hovercard" href="https://github.com/hakimel/reveal.js/issues/974">#974</a>)</li>
+<li>Fix issues with RTL navigation</li>
+<li>Fix edge cases where isFirstSlide incorrectly returned true</li>
+<li>Fix issue with automatically playing/pausing YouTube and Vimeo embeds</li>
+<li>Fix double-navigation on touch for some Android devices</li>
+<li>Fix calculation of fragment index when multiple fragments have the same index</li>
+<li><a href="https://github.com/hakimel/reveal.js/pull/1093/commits">Many more...</a></li>
+</ul>
+  </div>
+
+
+  <details
+    class="details-reset Details-element border-top pt-3 mt-4 mb-2 mb-md-4"
+    
+    
+    >
+    <summary>
+      <div class="d-flex flex-items-center">
+        <span class="mr-2 Details-content--closed"><svg class="octicon octicon-triangle-right" viewBox="0 0 6 16" version="1.1" width="6" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/></svg></span>
+        <span class="mr-2 Details-content--open"><svg class="octicon octicon-triangle-down" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 5l6 6 6-6H0z"/></svg></span>
+        <span class="text-bold">Assets</span>
+        <span class="ml-1 Counter">2</span>
+      </div>
+    </summary>
+    <div class="Box Box--condensed mt-3">
+      <div>
+
+
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.0.0.zip" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (zip)
+            </a>
+          </div>
+          <div class="d-block py-1 py-md-2 Box-body px-2">
+            <a href="/hakimel/reveal.js/archive/3.0.0.tar.gz" rel="nofollow" class="d-flex flex-items-center">
+              <svg class="octicon octicon-file-zip flex-shrink-0 text-gray" width="16" height="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM11 14H1V2h3v1h1V2h3l3 3v9zM5 4V3h1v1H5zM4 4h1v1H4V4zm1 2V5h1v1H5zM4 6h1v1H4V6zm1 2V7h1v1H5zM4 9.28A2 2 0 0 0 3 11v1h4v-1a2 2 0 0 0-2-2V8H4v1.28zM6 10v1H4v-1h2z"/></svg>
+              <span class="px-1 text-bold">Source code</span> (tar.gz)
+            </a>
+          </div>
+      </div>
+    </div>
+  </details>
+
+
+  </div><!-- /.release-body -->
+</div><!-- /.release -->
+
+        </div>
+
+  </div>
+
+  <div data-pjax class="paginate-container">
+    <div class="pagination"><span class="disabled">Previous</span><a rel="nofollow" href="https://github.com/hakimel/reveal.js/releases?after=3.0.0">Next</a></div>
+  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.20241s from unicorn-899f7b894-h4ddl">GitHub</span>, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-BlCvumXWTvpASEdhCGiahDUDf7Bwb8QXA2XnnSnqJ9QafxcNcrNYUNYS2wXmd3nEpO//+zlZa9DSV9zmu5MqRg==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-90c0ace0.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-DYYzfLxLAmEhliHzsFzzTPG/oyYo0cHHtLPgoxPMhO+607XI0AS2KRK3oRupGySztV3+TzEVI0np0lROEHXyww==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-f5d42599.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-JPu1pFctPoxCyC1+0GHbLKiMRASEFH3GOh28MI9lBRZKTCO9xquYofwb3iXr/O6+38u/LiapiTkniXT9nLgZYw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-7368bf81.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+
