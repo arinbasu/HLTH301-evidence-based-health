@@ -1,0 +1,449 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Guideline Development Tool - printout</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style media="screen,print" type="text/css">
+    @font-face {
+      font-family: "GRADE-quality";
+      src: url();
+      src: url('https://gradepro.org/fonts/GRADE-quality.eot');
+      src: url('https://gradepro.org/fonts/GRADE-quality.eot?#iefix')
+          format('embedded-opentype'),
+        url('https://gradepro.org/fonts/GRADE-quality.woff') format('woff'),
+        url('https://gradepro.org/fonts/GRADE-quality.ttf') format('truetype'),
+        url('https://gradepro.org/fonts/GRADE-quality.svg#GRADE-quality')
+          format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    @media print {
+      @page {
+        size: portrait;
+          
+          
+          
+          
+      }
+    }
+
+    body {
+       -webkit-print-color-adjust: exact;
+      font: normal 7pt 'Arial Narrow', Arial, sans-serif;
+      line-height:7pt;
+      letter-spacing: 0px;
+      font-stretch: condensed;
+      color: black;
+    }
+
+    table {
+      valign: top;
+      border-collapse: collapse;
+      font: normal 6.5pt 'Arial Narrow', Arial, sans-serif;
+    }
+
+    thead { display: table-row-group }
+
+    tr {
+      page-break-inside: avoid !important;
+    }
+
+    sup span.underline {
+      margin: 0;
+      padding: 0;
+      text-decoration: underline;
+    }
+
+    td {
+      text-align: center;
+      vertical-align: top;
+    }
+
+    th {
+      padding: 5px;
+      font-weight: bold;
+      text-align: center;
+      border: 2px solid #ffffff;
+      color: #ffffff;
+      background-color: #2f5496;
+    }
+
+    th.outcome-cell {
+      font-weight: normal;
+      padding: 1px 2px;
+      text-align: left;
+    }
+
+    th.impact {
+      width: 32%;
+    }
+
+    th.quality {
+      width: 10%;
+    }
+
+    td.quality {
+       text-align: center;
+       width: 50px;
+    }
+
+    td.relative-effect,
+    td.absolute-effect,
+    td.intervention,
+    td.control {
+      text-align: center;
+    }
+
+    td.quality img {
+      width: 8px;
+      height: 8px;
+    }
+
+    thead {
+      background: #dddddd;
+    }
+
+    .outcomes-table .outcome-label {
+      text-align: left;
+    }
+    .outcome-label .ellipsis-wrapper {
+      display: inline-block;
+    }
+
+    td.outcome-label-row {
+      text-align: left;
+      font-weight: bold;
+      background-color: #ffffff;
+      padding-top: 5px;
+      color: #000000;
+      vertical-align: middle;
+    }
+
+    .outcome-one-row-printout-row td {
+      border: 1px solid #000000;
+    }
+
+    .outcome-edit-block {
+      display: none;
+    }
+    .outcomes-table .outcome-cell {
+        background: #ebebeb;
+    }
+    .outcomes-table button.save,
+    .outcomes-table button.edit,
+    .outcomes-table button.delete {
+      display: none;
+    }
+    .cell-content {
+      position: relative;
+    }
+    .cell-footnotes {
+      font-style: italic;
+      float: right;
+      padding: 2px;
+    }
+    .footnote-sup {
+      vertical-align: super;
+    }
+    .quality-sign {
+        font-family: 'GRADE-quality', Cambria, Helvetica, Arial;
+        font-size: 14px;
+    }
+
+    ol {
+      padding-left: 15px;
+    }
+
+    .no-of-studies {
+      width: 5%;
+    }
+    .risk-of-bias ,
+    .inconsistency,
+    .indirectness,
+    .imprecision {
+      width: 7%
+    }
+    .no-of-patients {
+      width: 16%
+    }
+    .relative-effect,
+    .intervention,
+    .control {
+      width: 8%
+    }
+    .other-considerations {
+      width: 11%
+    }
+    .design-studies,
+    .quality {
+      width: 6%
+    }
+    .importance {
+      width: 10%
+    }
+  </style>
+</head>
+<body>
+  <div class="outcomes-container"><div class="question-data">
+<div class="content">
+
+      <div>
+        <b>Author(s)</b>: <label for="authors"></label>
+        <span class="sup"></span>
+      </div>
+      <div>
+        <b>Date</b>: 
+      </div>
+      <div>
+        <b>Question</b>:
+        <label for="question">Mindfulness meditation compared to non-mindfulness based approached for stress </label>
+        <span class="sup"></span>
+      </div>
+      <div>
+        <b>Setting</b>: <label for="settings">community</label>
+        <span class="sup"></span>
+      </div>
+      <div>
+        <b>Bibliography</b>:
+        <label for="bibliography"></label><span class="sup"></span>
+      </div>
+
+
+
+
+  </div></div>
+<table class="outcomes-table" valign="top" width="100%" cellpadding="5">
+  <thead>
+    <tr class="outcome-label-row">
+      <th colspan="7">Certainty assessment</th>
+        <th colspan="2">№ of patients</th>
+        <th colspan="2" class="regular-header" style="display: table-cell;">Effect</th>
+      <th class="quality" colspan="1" rowspan="2">Certainty</th>
+      <th colspan="1" rowspan="2">Importance</th>
+    </tr>
+    <tr class="outcome-label-row">
+      <th>№ of studies</th>
+      <th>Study design</th>
+      <th>Risk of bias</th>
+      <th>Inconsistency</th>
+      <th>Indirectness</th>
+      <th>Imprecision</th>
+      <th>Other considerations</th>
+        <th>Mindfulness meditation</th>
+        <th>non-mindfulness based approached</th>
+        <th class="regular-header" style="display: table-cell;">Relative<br>(95% CI)</th>
+        <th class="regular-header" style="display: table-cell;">Absolute<br>(95% CI)</th>
+    </tr>
+  </thead>
+  <tbody class="printout-rows">
+
+  <tr data-item-cid="c27" class="extra-item"><td colspan="13" class="outcome-label-row">
+  <div class="outcome-label">
+    <div class="name-block"><span class="label outcome-name">Anxiety (follow up:  5 weeks; assessed with: DASS)</span></div>
+  </div>
+</td>
+</tr><tr data-view-cid="view1239" class="outcome-row outcome-one-row-printout-row" data-item-cid="c27">  <td data-col-no="1" data-property="noOfStudies" class="no-of-studies active">
+    <div class="cell-content">
+      <span>1</span>
+    </div>
+  </td>
+
+  <td data-col-no="2" data-property="designStudies" class="design-studies">
+    <div class="cell-content">
+      <span>randomised trials</span>
+    </div>
+  </td>
+
+  <td data-col-no="3" data-property="riskOfBias" class="risk-of-bias">
+    <div class="cell-content">
+      <span>serious</span>
+    <sup data-footnote-number="1" data-footnote-id="1">a</sup></div>
+  </td>
+
+  <td data-col-no="4" data-property="inconsistency" class="inconsistency">
+    <div class="cell-content">
+      <span>not serious</span>
+    </div>
+  </td>
+
+  <td data-col-no="5" data-property="indirectness" class="indirectness">
+    <div class="cell-content">
+      <span>not serious</span>
+    </div>
+  </td>
+
+  <td data-col-no="6" data-property="imprecision" class="imprecision">
+    <div class="cell-content">
+      <span>serious</span>
+    <sup data-footnote-number="1" data-footnote-id="2">b</sup></div>
+  </td>
+
+  <td data-col-no="7" data-property="otherConsiderations" class="other-considerations">
+    <div class="cell-content">
+      <span>none</span>
+    </div>
+  </td>
+
+        <td data-col-no="8" data-property="intervention" class="intervention">
+    <div class="cell-content">
+      <span>24</span>
+    </div>
+  </td>
+
+            <td data-col-no="9" data-property="control" class="control">
+          <div class="cell-content main-value">
+            <span class="cell-value">42</span>
+          </div>
+      </td>
+
+    <td data-col-no="10" data-property="relativeEffect" class="relative-effect disabled-cell not-editable-cell">
+  <div class="cell-content">
+    <span class="cell">-</span>
+  </div>
+</td>
+
+
+        <td data-col-no="11" data-property="absoluteEffect" class="absolute-effect">
+          <div class="inner-cell">
+            <div class="cell-content cont-main-value">
+              <span><span class="cell-value pt8">SMD <b>0.24 SD lower</b><br>(0  to 0 )</span></span>
+            </div>
+          </div>
+    </td>
+
+  <td data-col-no="12" data-property="quality" class="quality not-editable-cell ">
+    <div class="cell-content">
+      <span><span class="quality-sign">⨁</span><span class="quality-sign">⨁</span><span class="quality-sign">◯</span><span class="quality-sign">◯</span><br><span class="quality-text">LOW</span></span>
+    </div>
+  </td>
+
+<td data-col-no="13" data-property="importance" class="importance ">
+  <div class="cell-content">
+    <span></span>
+  </div>
+</td>
+
+</tr><tr data-item-cid="c157" class="extra-item"><td colspan="13" class="outcome-label-row">
+  <div class="outcome-label">
+    <div class="name-block"><span class="label outcome-name">Clinical state of anxiety (assessed with: Different scales and inventories)</span></div>
+  </div>
+</td>
+</tr><tr data-view-cid="view1314" class="outcome-row outcome-one-row-printout-row" data-item-cid="c157">  <td data-col-no="1" data-property="noOfStudies" class="no-of-studies">
+    <div class="cell-content">
+      <span>2</span>
+    </div>
+  </td>
+
+  <td data-col-no="2" data-property="designStudies" class="design-studies">
+    <div class="cell-content">
+      <span>randomised trials</span>
+    </div>
+  </td>
+
+  <td data-col-no="3" data-property="riskOfBias" class="risk-of-bias">
+    <div class="cell-content">
+      <span>serious</span>
+    <sup data-footnote-number="1" data-footnote-id="3">c</sup></div>
+  </td>
+
+  <td data-col-no="4" data-property="inconsistency" class="inconsistency">
+    <div class="cell-content">
+      <span>serious</span>
+    <sup data-footnote-number="1" data-footnote-id="4">d</sup></div>
+  </td>
+
+  <td data-col-no="5" data-property="indirectness" class="indirectness">
+    <div class="cell-content">
+      <span>serious</span>
+    <sup data-footnote-number="1" data-footnote-id="5">e</sup></div>
+  </td>
+
+  <td data-col-no="6" data-property="imprecision" class="imprecision">
+    <div class="cell-content">
+      <span>not serious</span>
+    </div>
+  </td>
+
+  <td data-col-no="7" data-property="otherConsiderations" class="other-considerations">
+    <div class="cell-content">
+      <span>publication bias strongly suspected<br>strong association</span>
+    <sup data-footnote-number="1" data-footnote-id="6">f</sup></div>
+  </td>
+
+        <td data-col-no="8" data-property="intervention" class="intervention">
+    <div class="cell-content">
+      <span>7</span>
+    </div>
+  </td>
+
+            <td data-col-no="9" data-property="control" class="control">
+          <div class="cell-content main-value">
+            <span class="cell-value">7</span>
+          </div>
+      </td>
+
+    <td data-col-no="10" data-property="relativeEffect" class="relative-effect disabled-cell not-editable-cell">
+  <div class="cell-content">
+    <span class="cell">-</span>
+  </div>
+</td>
+
+
+        <td data-col-no="11" data-property="absoluteEffect" class="absolute-effect">
+          <div class="inner-cell">
+            <div class="cell-content cont-main-value">
+              <span><span class="cell-value pt8">MD <b>7.57 points lower</b><br>(13.06 lower to 2.08 lower)</span></span>
+            </div>
+          </div>
+    </td>
+
+  <td data-col-no="12" data-property="quality" class="quality not-editable-cell ">
+    <div class="cell-content">
+      <span><span class="quality-sign">⨁</span><span class="quality-sign">◯</span><span class="quality-sign">◯</span><span class="quality-sign">◯</span><br><span class="quality-text">VERY LOW</span></span>
+    </div>
+  </td>
+
+<td data-col-no="13" data-property="importance" class="importance ">
+  <div class="cell-content">
+    <span></span>
+  </div>
+</td>
+
+</tr></tbody>
+</table>
+  <p><b>CI:</b> Confidence interval; <b>SMD:</b> Standardised mean difference; <b>MD:</b> Mean difference</p>
+
+
+  </div>
+    <h4>Explanations</h4>
+    <div class="footnotes-list">
+        <div>
+          <span>a. </span>
+          <span>The investigators were unable to provide details of randomisation; they also would not be able to provide for blinding given the type of intervention; hence this study would open up for biases</span>
+        </div>
+        <div>
+          <span>b. </span>
+          <span>While there were some drop in the scores of anxiety, the between group estimates did not meet statistical or clinical significance</span>
+        </div>
+        <div>
+          <span>c. </span>
+          <span>the first study had issues with allocation concealment, and the second study did not describe how they randomised and both studies had issues with not being able to blind participants and uneven ratios of male:female.</span>
+        </div>
+        <div>
+          <span>d. </span>
+          <span>one of these studies reported some measures but the other did not, so the findings were not consistent across the studies</span>
+        </div>
+        <div>
+          <span>e. </span>
+          <span>While the studies used direct measurement of anxiety states from participants using scales, none of the findings or measurements &#x27;directly&#x27; reported anxiety state changes</span>
+        </div>
+        <div>
+          <span>f. </span>
+          <span>This was based on only two published studies, and we do not know what other studies were conducted or what was missed. </span>
+        </div>
+    </div>
+</body>
+</html>
