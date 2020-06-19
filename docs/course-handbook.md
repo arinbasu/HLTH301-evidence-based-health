@@ -1,217 +1,147 @@
 ---
 title: Course Handbook
+tags: evidence, course
 
 ---
 # Syllabus for HLTH301
 
-## Goals and objectives of the course
+## Description
 
-HLTH 301: Evidence in Health Care aims to provide an overview of the nature
-of evidence, including current definitions and its evaluation and use in health
-care delivery decisions in a variety of settings.
-HLTH 301 is a 0.25 EFTS course ( 30 points course). This indicates
-that you will need to spend 10 hours per week studying HLTH301 this semester
-(full time study hours per week = 40 hours). we will meet face to face very week
-2 hours (1 - 3 PM) on Mondays. Check your messages on Learn (and email box
-or other means such as Ublend) for other, ADDITIONAL face to face meeting
-times.
-The goals of this course are as follows:
+"HLTH 301: Evidence in Health Care" aims to provide an overview of the nature of evidence, including current definitions and its evaluation and use in health care delivery decisions in a variety of settings. This is a 0.25 EFTS course (30 points course). This means you will need to spend 10 hours per week studying HLTH301 this semester (full time study hours per week = 40 hours). As critical appraisal of evidence is a necessary skill for anyone in any health profession, this course will provide you with the needed knowledge and equip you with the much needed skills of critical appraisal of evidence in health care that you can apply in your workplace and real life. This course also brings together knowledge you have gained in epidemiology, health education, and health policy in other courses in the public health major in Bachelor of Health Sciences. 
 
- - Learn about the role and use of evidence in health care, and
- - Build capacity/skills among students in critical appraisal.
+## Learning outcomes
+
+After successful completion of this course, you will be able to:
+
+- (LO1) Demonstrate you understand what evidence means in health care and contexts of health and human development
+- (LO2) how evidence is used to inform health policy framing and decision making in NZ
+- (LO3) Frame answerable health related research questions
+- (LO4) Identify sources of health care literature
+- (LO5) Critically appraise, and synthesise research findings
+
+## University Graduate Attributes
+
+The course meets the following University of Canterbury graduate attributes:
+
+- (GA1) Employable, innovative, and Enterprising
+    - Analytical, critical thinking and problem solving in diverse contexts
+    - Digital literacy
+    - Communication
+- (GA2) Bicultural competence and confidence
+    - A process of self-reflection on the nature of knowledge and norms
+    - Application of bicultural competence and confidence in Evidence based health
+- (GA3) Globally aware
+    - Understanding the global nature of Evidence and health
+    - Ability to engage critically in global and multicultural contexts of evidence appraisal
+- (GA4) Community engagement
+    - Understanding and articulating how the content and/or skills of Evidence based health enhances the community
+
+## Timetable 2020
+
+Classes are held at **Rehua 002 Lectorial** on **Mondays 10:00 AM - 12:00 PM**, starting 13th July till 17th August and from 7th September till 12th October, 2020. On 14th September, 2020, 10:00 - 12:00 PM the literature search class will be at the Library Den hosted by Margaret Paterson. You will learn more about it in the Learn page of the course. 
+
+For links to the classroom, see
+http://www.canterbury.ac.nz/maps/home?q=Rehua%20002%20Lectorial
+
+You can also join using Zoom as the sessions will be recorded and be made available over Zoom. Zoom URL:
+
+https://canterbury.zoom.us/j/91064675053
+
+**There will be NO TUTORIAL in this course**.
+
+The lecture schedule for 2020 is as follows:
+
+
+| Date           | Topic                                |
+| -------------- | ------------------------------------ |
+| 13th July      | Introduction and Overview            |
+| 20th July      | Evidence Based Health                |
+| 27th July      | Causal Inference                     |
+| 3rd August     | Internal and External Validity       |
+| 10th August    | Health Care study designs            |
+| 17th August    | Maori and indigenous health issues   |
+| 7th September  | Framing a research question          |
+| 14th September | Literature search at the Library Den |
+| 21st September | Critical Appraisal                   |
+| 28th September | Grading evidence                     |
+| 5th October    | Systematic review                    |
+| 12th October   | Final Class and summary              |
+
+
+## Course coordinator:
+- Associate Professor Arindam Basu, email: [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
+- Arindam Basu's office address:
+    - Room 405F, Manawa Building, 176 At Asaph Street
+    - Schedule an appointment with Arindam Basu here: https://calendly.com/arin-basu/30min
+    - Phone: 03 369 3509
+    - Preferred mode of communication: email or the course forum
+
+## Assessment
+
+### A1. Multiple choice question based test (35% weight, 35 marks, 14th August, open all day)
+- The quiz has 35 multiple choice questions 
+- Each question is worth 1 mark
+- Each question has one stem and five options out of which only one option is correct. You will have to identify the correct option
+- A correct answer gets 1 mark, a wrong answer gets 0 mark
+- Your final score is sum of all correct answers
+- Test will be offered on 14th August 2020, 9 AM - 5:00 PM.
+- Once you start, you will have 2 hours to complete the test
+- It's an open book test and you can access the test from Learn site
+- We recommend you do practice tests on Learn first before attempting this test
+- You are allowed only one attempt
+
+## A2. Forum Assignment (20%, 20 marks, 18th September 2020 5 PM Hard Deadline)
+- Write a reflective post on the following topic:
+
+"The key components of Evidence Based Public Health (EBPH) include making decisions on the basis of the best available scientific evidence and using sound data collection and research methods together with engaging the community in the decision-making. An EBPH approach could potentially have numerous direct and indirect benefits, including access to more and higher-quality information on best practice, a higher likelihood of successful prevention programs and policies, greater workforce productivity, and more efficient use of public and private resources."
+(Source: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705863/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5705863/)
+)
+
+Step by step guidance on this assignment:
+
+- Explain the above statement in plain English
+- Elaborate your writing with one or more appropriate examples 
+- Draw a diagram, a cartoon, or a figure to illustrate your argument
+- Submit the post using the Forum function by 18th September 2020, 5 PM. This is a **hard deadline**. Late submissions will not be accepted. You can submit earlier.
+-  Follow further instructions in the Course Learn page
+- Word limit: 500 words
+- Word count excludes words in your title, abstract, citations, and legends in figures, and tables.
+- Check your word count using the following tool: 
+    - [https://wordcounter.net/](https://wordcounter.net/)
+
+### A3. Critical appraisal of a research topic (45%, 45 marks, 16th October, 2020, 5 PM Hard deadline)
+
+In this assignment, you will construct an evidence appraisal table based on **five identified intervention studies** on **one of the following three study questions or problems** using GRADEPRO GDT tool. You will then **write a commentary on the quality of the evidence** for the identified intervention-outcome combination. The questions are as follows:
+
+**Q1. What is the effectiveness of nicotine replacement therapy compared with other forms of treatment for achieving smoking cessation in adults?**
+
+**Q2. What is the effectiveness of social skills training compared with other interventions that are not based on social skills training for attention deficit hyperactivity disorders in people under 18 years of age?**
+
+**Q3. What is the effectiveness of lifestyle interventions compared with medications alone on health related quality of life outcomes among women who suffer from polycystic ovary syndrome?**
+
+Step by step guidance:
+
+- Step 0. Select a question to work on.
+- Step 1. Construct a PICO formatted question (refer to the materials on 7th September)
+- Step 2. Search literature databases on the PICO question (refer to materials on 14th September). There is no limit how many databases you want to search
+- Step 3. Identify **five most appropriate** intervention studies from the search results. These studies must have your chosen intervention as the intervention, and the outcome as the outcome. Such intervention studies can be any design (RCT, before-after, others)
+- Step 4. Obtain full texts of the studies and combine the results and enter them to GRADEPRO GDT to develop the gradepro evidence PORTFOLIO table
+- Step 5. Write a commentary on the GRADEPRO PORTFOLIO table
+- Step 6. Follow the template provided in Learn to write this paper.
+- Step 7. Submit the paper **no later than** 16th October, 2020, 5 PM. **This is a hard deadline**. No submission will be accepted after this date.
+
+### Assessment policy
+This course will focus on qualitative not quantitative assessment, both with reference to your own work and the works we’re studying. While you will get a final grade, I will put questions and comments that engage your work rather than simply evaluate it. You will also be reflecting carefully on your own work and the work of your peers. The intention here is to help you focus on working in a more organic way, as opposed to working as you think you’re expected to. If this process causes more anxiety than it alleviates, see me or discuss with me at any point to confer about your progress in the course to date. If you are worried about your grade, your best strategy should be to join the discussions, do the reading, and complete the assignments. You should consider this course a “busy-work-free zone.” If an assignment does not feel productive, we can find ways to modify, remix, or repurpose the instructions.
  
- 
-After successful completion of this course, you will be able to demonstrate the meaning and application of the following terms and concepts:
 
-- evidence based health
-- Study designs in health
-- how evidence is used to inform health policy framing and decision making
-in NZ
-- frame answerable research questions
-- identify sources of health care literature
-- frame search strategy and conduct searches of health information and
-literature databases
-- Critically appraise, and synthesise research findings
+## Course Links
 
-## Course coordinators and teaching team
-
-### Course coordinator:
-- Arindam Basu, [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
-
-### Teaching team:
-- - Arindam Basu ("AB"), [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
-- Ann Richardson ("AR"), [ann.richardson@canterbury.ac.nz](mailto:ann.richardson@canterbury.ac.nz)
-- Annabel Ahuriri-Driscoll ("AAD"), [annabel.ahuriridriscoll@canterbury.ac.nz](mailto:annabel.ahuriridriscoll@canterbury.ac.nz)
-- Margaret Paterson ("MP"), [margaret.paterson@canterbury.ac.nz](mailto:margaret.paterson@canterbury.ac.nz)
-
-## Office hours
-- Arindam Basu, Monday - Thursday
-- Manawa 405F, 10 am - 2 pm (office hours)
-- Schedule an appointment with Arindam Basu at Calendly here: https://calendly.com/arin-basu/30min
-- Phone: 03 369 3509
-- Telegram: arinbasu
-- Twitter: arinbasu
-
-Our main method of communication is via emails. UC requires that you will check your emails at least once a week. We encourage you to email us with any question or comment. We aim to respond within 24 hours of getting an email, if you do not receive an email in three days of sending, please re-send the email and/or call the course-coordinator Arindam Basu. 
-
-## List of topics and timetable 
-
-**(Sessions I-VII, and IX - XII  are held on the dates and times listed below at Rehua 329. Session VIII will be held at the Central Library)**. For any change in the venue or time or additional classes, please refer to the Learn site.
-
-| Session | Date and Time      | Topic                 |Lecturer  |
-|---------|--------------------|-----------------------|----------|
-| I       | 15/7/2019, 12-2PM  | Introduction          | AB       |
-| II      | 22/7/2019, 12-2PM  | Cultural issues       | AAD      | 
-| III     | 29/7/2019, 12-2PM  | Evidence based health | AB       |
-| IV      | 5/8/2019, 12-2 PM  | Causal inference      | AB       |
-| V       | 12/8/2019, 12-2 PM | Risk                  | AB       |
-| VI      | 19/8/2019, 12-2 PM | Validity              | AR       |
-| Break   | 26/8 - 6/9/2019    | Mid semester break    | N/A      |
-| VII     | 9/9/2019, 12-2 PM  | Study Designs         | AR       |
-| VIII    | 16/9/2019, 12-2 PM | Literature search     | MP       |
-| IX      | 23/9/2019, 12-2 PM | Critical Appraisal    | AR       |
-| X       | 30/9/2019, 12-2 PM | Grading of evidence   | AB       |
-| XI      | 7/10/2019, 12-2 PM | Systematic review     | AB       |
-| XII     | 14/10/2019,12-2 PM | Evidence to Policy    | AR       |
-
-
-## Course textbook and software
-
+- [Learn Page for this course](https://learn.canterbury.ac.nz/course/view.php?id=8766))
+- [Github Repository](https://github.com/arinbasu/HLTH301-evidence-based-health)
 - [Collaborative notebook](https://hackmd.io/@arinbasu1/BJxfBW1eB)
-- [Textbook for this course](https://www.wileydirect.com.au/buy/understanding-research-methods-for-evidence-based-practice-in-health-first-edition/)
-- [Jupyter notebook for the course](https://arinsclasses.info.tm/teaching/user/arinbasu/notebooks/trisha.ipynb) (You will require a log-in will be able to access this site)
 - [Gradepro GDT](https://gdt.gradepro.org/app/) (You will need a log-in for this resource)
-- [Overleaf](https://www.overleaf.com) (You will need a log-in for this resource)
+- [Entry of HLTH301 in the CIS](https://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH301&occurrence=20S2(C)&year=2020)
 
-
-## Assessments and Assessment Policy
-
-| Assessment Component |  Marks | Due             |
-|----------------------|--------|-----------------|
-| Open book MCQ        | 35     | 23/8/2019, 5 PM |
-| Forum submission     | 20     | 27/9/2019, 5 PM |
-| Critical appraisal   | 45     | 18/10/2019, 5 PM|
-
-## Description of the assessments
-
-### Online open book MCQ (multiple choice questions)
-
-The purpose of this component is to test your understanding of the concepts of evidence based health. We shall administer the test online with 35 multiple choice questions. You are allowed one hour from start to finish. The test will be administered on Learn, and will open at 9 AM on 23/8/2019 and close at 5 PM on 23/8/2019. The test is worth 35% of your assessment or total grade and will be marked by the computer.
-
-Each of the 35 items of the test will consist of one stem and five possible answers. Only one of the answers is the correct answer to the question. There is no penalty for wrong answer. Each question is worth 1 point. If you select the wrong choice, you will get '0' for that question. Your total will be total number of correct answers. 
-
-Example of a question:
-
-Which of the following actions is part of evidence based healthcare practice?
-- Provide opinions
-- Seeking expert opinions
-- Conduct a preliminary search of the popular websites
-- Critically appraise a body of literature
-- Clinically treat a patient based on past experience
-
-The correct answer is the fourth choice, **Critically appraise a body of literature**. All the other four answers are not part of an evience based process. 
-
-The test is open book and we do not require that you take the test at an appointed hour at a specific place. This means you can take the test anywhere and anytime between 9 AM and 5 PM. You are responsible for arranging your own internet connection to take the test. We recommend that you take the test at the University of Canterbury campus (at the library or at a computer laboratory). If you get disconnected for any reason during the test, the test may record answers you saved upto the point of disconnection, and we will mark you on that basis. No retest will be given to you. You can apply for an aegrotat if you like. 
-
-We recommend that you take the practice tests on Learn and familiarise yourself with the kind of questions that you may expect. The type and difficulty of the questions will be similar to the ones we release on Learn. 
-
-So, to recap:
-
-- This exam accounts for 35% of your grade and has 35 questions, each question worth 1 mark.
-- This is a multiple choice examination that has five choices and only one of them is correct
-- The test will be offered only once between 9 am - 5 pm on 23/8/2019
-- The test is online and will live on learn
-- It is your responsibility to take the test and no adjustment will be made if you are unable to finish the test for whatever reason
-- You will need to answer 35 questions in 60 minutes
-- You can use books/resources and notes to answer this test (it is an open-book test)
-
-
-### Assignment II: Forum posts
-
-This assignment is designed to test your ability to **apply** everything you learned in the course in a real world setting where you will be able to:
-
-- State a position on a topic
-- Spot an argument
-- Either defend or refute the argument
-- Identify what evidence is presented or needs to be presented
-- Write about it
-- Communicate in a friendly yet using principles of evidence based practice
-
-Between 13/9/2019 and 27/9/2019, we will run a forum where we will post a question seeking your opinion and what evidence you can support in defense of your opinion or idea. We will run this over two weeks. In these two weeks, you will:
-
-- **Start your own post** by writing your comment in response to the statement we will post
-- **Respond to other students' comments**; you can respond to an individual student, or you can respond to more than one student's comments collectively in a single post. You can only write ONE main post and ONE response post.
-- Each week you will write two posts, so **you should write a total of four posts over two weeks**. You are not allowed to write more than two posts in a week. 
-- Each week, one post will be to state your own position, and the other post on the week to respond to a fellow student's statement or position
-- The posts you write must reflect everything you have learned on the course, and you must engage in a polite and civil discourse (violation of politeness and civil discourse or failing to engage in a civilised manner will automatically get you a failing grade in this assignment)
-- We, the lecturers in this course, will not participate in the forum or post discussions, but we will monitor the forum. 
-
-After the forum closes on 27/9/2019 5 PM, we will collect all posts and will mark the posts on the basis of:
-
-- Quality of your argument and writing (clarity, grace, and style of your writing)
-- How well you used evidence to support your position
-- How well you wrote your own position 
-- How well you responded to your fellow student's position
-
-We will grade you on a range between 0 - 20
-
-### Assignmet III: Critical appraisal of a body of evidence
-
-The purpose of this assessment is to understand for us the extent to which you have understood how to critically appraise a body of evidence not just by an article by article basis, but also how, given an outcome, you can identify a body of evidence of primary resources and then will develop a grading of the evidence at hand. Therefore, in this assessment, you will be provided with a challenging scenario, and you will in response
-
-- Convert the scenario to an answerable question using PICO (you will learn about PICO in the course)
-- Search at least three scholarly databases with the terms
-- Identify primary research papers on the most relevant outcomes related to the scenario
-- Critically appraise the research papers to arrive at a grading of evidence
-- Write about it
-
-We will provide you with five problems. Choose any one of them, and develop a grading of available evidence:
-
-1. What quality of evidence exists that myringotomy with grommet insertion is an effective treatment for improving hearing outcomes for chronic secretory otitis media (also known as "glue ear") in children under ten years of age?
-2. What quality of evidence exists that nicotine replacement therapy is effective for smoking cessation for young adults?
-3. Examine and grade the quality of evidence on the effectiveness of social skills training for controlling attention deficit hyperactivity disorders in children?
-4. Are oral antibiotics effective and safe for treating pain in irreversible pulpitis (inflammation of the nerve inside the tooth/nerve damage) for adults? Grade the evidence for beneficial effects and harms
-5. Grade the quality of evidence on the effects of lifestyle interventions on reproductive, and quality of life outcomes in women with polycystic ovary syndrome
-
-You will need to do the following:
-
-1. Pick ONE problem.
-2. Frame an answerable research question based on PICO
-3. Conduct a search on these questions in at least three databases (the more databases, the better)
-4. Select ONE specific outcome for each of benefit and harm (you need to select one beneficial outcome and one harmful outcome)
-5. Select as many studies as you can. You can select as many studies as you can but you should select at least three studies for each outcome. You should select studies appropriate for each outcome and studies that will likely to provide you with the best evidence
-6. Use GRADEPRO GDT tool to synthesise the evidence and arrive at a quality assessment table
-7. Summarise and describe your work in the form of a written text document.
-
-The document you write ("your output") must include the following:
-
-- A title of the paper
-- An introduction and background to the problem
-- Step by step description of your method. The method must include the PICO question, the search process, selection of studies, and assessment of evidence
-- A GRADE evidence table
-- A discussion section where you will summarise the findings from your research, and describe the implication of the findings
-- A list of references (there is no upper or lower limit as to how many references you must include in the study) written in APA 6 style
-- The text of the document must be between 1000-1500 words (roughly two to three pages). The word count does not include words in the tables, figures, and reference sections. Words everywhere else will count.
-- If the word count is less than 1000 words or more than 1500, we will deduct 5% from your marks for this assignment. 
-- You can include as many figures and tables as you want in the document
-- You must submit the document as a PDF to Learn
-- We will provide you with a template with instructions how to use it. Use the template and follow the instructions in the template (You will learn how to use the template in this course)
-- DO NOT include a cover sheet, this is not necessary for this assignment!
-- You must submit by 18/10/2019 5 PM. We will not accept late submissions. You are eligible to apply for an aegrotat for this component if you cannot submit on time due to any reason. 
-
-What we will assess when we will grade this component of assessment:
-
-- We will rate the title: how well the title corresponds to the rest of the paper
-- Your discussion of the problem and how well you demonstrate you understand the problem under review
-- Details of your description of the methods (the search process and correctness of the search)
-- Grade table (correctly filled in the grade table)
-- Your quality of discussion
-
-You will get a grade between 0-45 and detailed comments/feedback. 
-
-## Conclusion
-
-In summary, HLTH301 is a course on evidence-based health. You will learn how to frame answerable questions, how to search literature, and how to appraise evidence. We will also cover clinical epidemiology and risk assessment. The course work will prepare you with skills that you can use to critically appraise health literature. We will assess your skills in appraising and writing about your critical appraisals using a multiple choice question based examination, a discussion, and an essay. We will use a textbook and several lectures and reading assignments. We hope you will enjoy this course. Please ask questions about the course or provide comments by emailing Arindam Basu (arindam.basu@canterbury.ac.nz).  
 
 
 
