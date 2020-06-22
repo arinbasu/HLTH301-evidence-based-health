@@ -1,9 +1,8 @@
 ---
-title: Course Handbook
+title: Course Handbook of Evidence in Health
 tags: evidence, course
-
 ---
-# Syllabus for HLTH301
+# HLTH301: Evidence in Health
 
 ## Description
 
@@ -51,22 +50,18 @@ https://canterbury.zoom.us/j/91064675053
 
 The lecture schedule for 2020 is as follows:
 
-
-| Date           | Topic                                |
-| -------------- | ------------------------------------ |
-| 13th July      | Introduction and Overview            |
-| 20th July      | Evidence Based Health                |
-| 27th July      | Causal Inference                     |
-| 3rd August     | Internal and External Validity       |
-| 10th August    | Health Care study designs            |
-| 17th August    | Maori and indigenous health issues   |
-| 7th September  | Framing a research question          |
-| 14th September | Literature search at the Library Den |
-| 21st September | Critical Appraisal                   |
-| 28th September | Grading evidence                     |
-| 5th October    | Systematic review                    |
-| 12th October   | Final Class and summary              |
-
+- 13th July, Introduction and Overview
+- 20th July, Evidence based health
+- 27th July, Internal and external validity
+- 3rd August, Causal Inference
+- 10th August, Study designs
+- 17th August, Maori and indigenous health issues
+- 7th September, Framing a research question
+- 14th September, Literature search at Library Den (held at Library)
+- 21st September, Critical Appraisal
+- 28th September, Grading Evidence
+- 5th October, Systematic Review
+- 12th October, Final class and valediction
 
 ## Course coordinator:
 - Associate Professor Arindam Basu, email: [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
