@@ -37,7 +37,7 @@ The course meets the following University of Canterbury graduate attributes:
 
 ## Timetable 2020
 
-Classes are held at **Rehua 002 Lectorial** on **Mondays 10:00 AM - 12:00 PM**, starting 13th July till 17th August and from 7th September till 12th October, 2020. On 14th September, 2020, 10:00 - 12:00 PM the literature search class will be at the Library Den hosted by Margaret Paterson. You will learn more about it in the Learn page of the course. 
+Classes are held at **Rehua 002 Lectorial** on **Mondays 10:00 AM - 12:00 PM**, starting 13th July till 17th August and from 7th September till 12th October, 2020. 
 
 For links to the classroom, see
 http://www.canterbury.ac.nz/maps/home?q=Rehua%20002%20Lectorial
@@ -57,7 +57,7 @@ The lecture schedule for 2020 is as follows:
 - 10th August, Study designs
 - 17th August, Maori and indigenous health issues
 - 7th September, Framing a research question
-- 14th September, Literature search at Library Den
+- 14th September, Literature search 
 - 21st September, Critical Appraisal
 - 28th September, Grading Evidence
 - 5th October, Systematic Review
