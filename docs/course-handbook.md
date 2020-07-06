@@ -57,7 +57,7 @@ The lecture schedule for 2020 is as follows:
 - 10th August, Study designs
 - 17th August, Maori and indigenous health issues
 - 7th September, Framing a research question
-- 14th September, Literature search at Library Den (held at Library)
+- 14th September, Literature search at Library Den
 - 21st September, Critical Appraisal
 - 28th September, Grading Evidence
 - 5th October, Systematic Review
