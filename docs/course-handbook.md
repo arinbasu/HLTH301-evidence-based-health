@@ -35,18 +35,15 @@ The course meets the following University of Canterbury graduate attributes:
 - (GA4) Community engagement
     - Understanding and articulating how the content and/or skills of Evidence based health enhances the community
 
-## Timetable 2020
+## Timetable 2021
 
-Classes are held at **Rehua 002 Lectorial** on **Mondays 10:00 AM - 12:00 PM**, starting 13th July till 17th August and from 7th September till 12th October, 2020. 
-
-For links to the classroom, see
-http://www.canterbury.ac.nz/maps/home?q=Rehua%20002%20Lectorial
+Classes are held at **Rehua 529** on **Mondays 12:00 - 2:00 PM**, starting 19th July till 23rd August and from 13rd September till 18th October, 2021. 
 
 You can also join using Zoom as the sessions will be recorded and be made available over Zoom. Zoom URL:
 
 https://canterbury.zoom.us/j/91064675053
 
-**There will be NO TUTORIAL in this course**.
+**There will be only ONE tutorial in this course, see the list below**
 
 The lecture schedule for 2020 is as follows:
 
