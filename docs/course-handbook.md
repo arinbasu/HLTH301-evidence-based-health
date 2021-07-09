@@ -106,10 +106,6 @@ In this assessment, you will start with a relevant question. Then identify a met
 * You must start, complete, and submit this quiz on 22nd October between 9 AM - 11 PM
 * The Quiz will only open on that day and close on that day
 
-### Assessment policy
-
-This course will focus on qualitative not quantitative assessment, both with reference to your own work and the works we’re studying. While you will get a final grade, I will put questions and comments that engage your work rather than simply evaluate it. You will also be reflecting carefully on your own work and the work of your peers. The intention here is to help you focus on working in a more organic way, as opposed to working as you think you’re expected to. If this process causes more anxiety than it alleviates, see me or discuss with me at any point to confer about your progress in the course to date. If you are worried about your grade, your best strategy should be to join the discussions, do the reading, and complete the assignments. You should consider this course a “busy-work-free zone.” If an assignment does not feel productive, we can find ways to modify, remix, or repurpose the instructions.
-
 ## Course Links
 
 * [Learn Page for this course](https://learn.canterbury.ac.nz/course/view.php?id=8766)
