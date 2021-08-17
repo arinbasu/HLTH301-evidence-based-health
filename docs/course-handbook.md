@@ -108,7 +108,7 @@ In this assessment, you will start with a relevant question. Then identify a met
 
 ## Course Links
 
-* [Learn Page for this course](https://learn.canterbury.ac.nz/course/view.php?id=8766)
+* [Learn Page for this course](https://learn.canterbury.ac.nz/course/view.php?id=11728)
 * [Github Repository](https://github.com/arinbasu/HLTH301-evidence-based-health)
 * [Collaborative notebook](https://hackmd.io/@arinbasu1/BJxfBW1eB)
 * [Gradepro GDT](https://gdt.gradepro.org/app/) (You will need a log-in for this resource)
